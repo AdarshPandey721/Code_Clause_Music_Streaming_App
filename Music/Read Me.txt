@@ -1,0 +1,4 @@
+Place your music files here:
+
+make sure to rename the songs to "Song 1"..."Song 8"  (you can increase the list also)
+also make sure the song format is ".mp3"
